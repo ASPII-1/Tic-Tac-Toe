@@ -1,0 +1,45 @@
+.container {
+    text-align: center;
+    align-items: center;
+}
+
+.container .Title {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 0px;
+}
+
+.container .Title .name {
+    color: #26ffcb;
+    padding-left: 15px;
+    padding-bottom: 0px;
+}
+
+.container .Reset {
+    width: 150px;
+    height: 80px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 50px;
+    background-color: #1f3540;
+    font-size: 24px;
+    color: #26ffcb;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.container .Score {
+    font-size: 40px;
+}
+
+.container .Row {
+    height: 100px;
+    width: 300px;
+    display: flex;
+    margin: auto;
+}
